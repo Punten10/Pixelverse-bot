@@ -16,6 +16,13 @@ Daftar Disini [[Pixelverse]](https://t.me/pixelversexyzbot?start=1993663749)
 >> python levelup.py
 # Auto Claim, Auto Level UP Pet, Manual Input Timeout
 ```
+
+# EROR
+```shell
+>> Kesalahan saat mendapatkan data pengguna: 401 - Unauthorized
+# Server BOT Pixelverse Lagi Down
+```
+
 ### Auto Claim Mining Setiap 20 Detik
 ```shell
 >> python claim.py
