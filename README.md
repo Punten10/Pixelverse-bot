@@ -14,7 +14,7 @@ Daftar Disini [[Pixelverse]](https://t.me/pixelversexyzbot?start=1993663749)
 >> python claim.py
 # Auto Claim Mining Setiap 20 Detik 
 >> python levelup.py
-# Auto Claim, Auto Level UP Pet, Manual Input Timeout
+# Auto Claim, Auto Level UP Pet, Auto Claim Daily, Manual Input Timeout
 ```
 
 #### EROR
@@ -32,7 +32,7 @@ Daftar Disini [[Pixelverse]](https://t.me/pixelversexyzbot?start=1993663749)
 #### Auto Claim, Auto Level UP Pet, Auto Claim Daily, Manual Input Timeout
 ```shell
 >> python levelup.py
-# Auto Claim, Auto Level UP Pet, Manual Input Timeout
+# Auto Claim, Auto Level UP Pet, Auto Claim Daily, Manual Input Timeout
 ```
 ![image](https://github.com/Punten10/Pixelverse-bot/assets/64400801/007ad8ce-4e0a-45a9-a07b-5de4476bb118)
 
