@@ -21,7 +21,7 @@ Daftar Disini [[Pixelverse]](https://t.me/pixelversexyzbot?start=1993663749)
 ```shell
 >> Kesalahan saat mendapatkan data pengguna: 401 - Unauthorized
 # Server BOT Pixelverse Lagi Down
->> Bug Auto Claim Jumlah Tidak Keluar
+>> Bug Auto Claim Daily Jumlah Tidak Keluar
 ```
 
 #### Auto Claim Daily & Mining Setiap 20 Detik
