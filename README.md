@@ -16,6 +16,7 @@ Daftar Disini [[Pixelverse]](https://t.me/pixelversexyzbot?start=1993663749)
 >> python levelup.py
 # Auto Claim, Auto Level UP Pet, Auto Claim Daily, Manual Input Timeout
 ```
+![photo_2024-06-11_04-41-49](https://github.com/Punten10/Pixelverse-bot/assets/64400801/8d366927-11c5-4c03-a84c-0b06fe2b8f36)
 
 #### EROR/BUG
 ```shell
