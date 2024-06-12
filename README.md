@@ -25,7 +25,7 @@ Daftar Disini [[Pixelverse]](https://t.me/pixelversexyzbot?start=1993663749)
 >> Bug Auto Claim Daily Jumlah Tidak Keluar
 ```
 
-#### Auto Claim Daily & Mining Setiap 20 Detik
+#### Auto Claim Daily, Mining & Manual Input Timeout
 ```shell
 >> python claim.py
 ```
