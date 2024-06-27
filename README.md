@@ -1,5 +1,5 @@
 # Pixelverse Full Auto
-Daftar Disini [[Pixelverse]](https://t.me/pixelversexyzbot?start=1993663749)
+Daftar Disini https://t.me/pixelversexyzbot?start=1993663749
 
 ## instalasi
 ```bash
